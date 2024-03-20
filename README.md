@@ -11,6 +11,7 @@ The train/val/test data can be downloaded from [Google Drive](https://drive.goog
 
 If you find that our paper or data useful, please cite the paper as follows:
 
+```
 @inproceedings{jia2023reducing,
   title={Reducing Sensitivity on Speaker Names for Text Generation from Dialogues},
   author={Jia, Qi and Tang, Haifeng and Zhu, Kenny},
@@ -18,3 +19,4 @@ If you find that our paper or data useful, please cite the paper as follows:
   pages={2058--2073},
   year={2023}
 }
+```
