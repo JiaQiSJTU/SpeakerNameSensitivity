@@ -1,3 +1,8 @@
 # Reducing Sensitivity on Speaker Names for Text Generation from Dialogues
 
-This paper is accepted by the findings of ACL2023. More details are coming soon.
+## Data
+
+The name lists adopted in this work are under the directory `name_lists`.
+
+The train/val/test data can be downloaded from [Google Drive](https://drive.google.com/file/d/1-smvArMapDyfHpzlN8gOs0klbsRevww2/view?usp=sharing).
+
